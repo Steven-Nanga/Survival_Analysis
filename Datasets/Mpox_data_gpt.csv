@@ -1,0 +1,24 @@
+case_id,date_onset,date_confirmation,date_outcome,followup_days,outcome,age,sex,district,notes,source,event_date,time,status
+MW-001,2025-04-16,2025-04-17,,,0,30.0,M,Lilongwe,First recorded case (PHIM/WHO Apr 2025),PHIM/WHO,2025-09-28,164,0
+MW-002,2025-04-17,2025-04-18,,,0,33.0,M,Lilongwe,Case from Kawale 2,PHIM,2025-09-28,163,0
+MW-003,2025-04-17,2025-04-18,,,0,38.0,M,Lilongwe,Case from Chilinde,PHIM,2025-09-28,163,0
+MW-004,2025-04-17,2025-04-18,,,0,35.0,M,Lilongwe,Area 36 Kandikole,PHIM,2025-09-28,163,0
+MW-005,2025-04-17,2025-04-18,,,0,18.0,M,Lilongwe,Area 36 Tumbwe TA Tsabango,PHIM,2025-09-28,163,0
+MW-006,2025-04-17,2025-04-18,,,0,2.0,F,Mangochi,Child case from Michesi 1 TA Mponda,PHIM,2025-09-28,163,0
+MW-007,2025-09-08,2025-09-08,,,0,40.0,M,Lilongwe,PHIM: new case Sep 8,PHIM,2025-09-28,20,0
+MW-008,2025-09-08,2025-09-08,,,0,27.0,F,Lilongwe,PHIM: new case Sep 8,PHIM,2025-09-28,20,0
+MW-009,2025-09-12,2025-09-12,,,0,45.0,F,Lilongwe,PHIM update Sep 12,PHIM,2025-09-28,16,0
+MW-010,2025-09-12,2025-09-12,,,0,12.0,M,Salima,PHIM update Sep 12,PHIM,2025-09-28,16,0
+MW-011,2025-09-12,2025-09-12,,,0,4.0,F,Lilongwe,PHIM update Sep 12,PHIM,2025-09-28,16,0
+MW-012,2025-09-13,2025-09-13,,,0,14.0,F,Lilongwe,Cluster Sep 13 Bwaila hospital,PHIM,2025-09-28,15,0
+MW-013,2025-09-13,2025-09-13,,,0,22.0,F,Lilongwe,Cluster Sep 13 Bwaila hospital,PHIM,2025-09-28,15,0
+MW-014,2025-09-13,2025-09-13,,,0,8.0,M,Lilongwe,Cluster Sep 13 Bwaila hospital,PHIM,2025-09-28,15,0
+MW-015,2025-09-13,2025-09-13,,,0,4.0,F,Lilongwe,Cluster Sep 13 Milamba/St Chavala etc,PHIM,2025-09-28,15,0
+MW-016,2025-09-13,2025-09-13,,,0,15.0,F,Lilongwe,Cluster Sep 13 Milamba,PHIM,2025-09-28,15,0
+MW-017,2025-09-13,2025-09-13,,,0,4.0,F,Lilongwe,Cluster Sep 13 Milamba,PHIM,2025-09-28,15,0
+MW-018,2025-09-13,2025-09-13,,,0,33.0,M,Lilongwe,Cluster Sep 13 Dzenza health facility,PHIM,2025-09-28,15,0
+MW-019,2025-09-13,2025-09-13,,,0,15.0,F,Lilongwe,Cluster Sep 13 St Chavala,PHIM,2025-09-28,15,0
+MW-020,2025-09-15,2025-09-17,,,0,22.0,M,Lilongwe,"Reported Sep 21 (onset 15 Sep, confirmed 17 Sep)",PHIM,2025-09-28,11,0
+MW-021,2025-09-24,2025-09-24,,,0,33.0,F,Ntcheu,PHIM Spot Report Issue 58,PHIM,2025-09-28,4,0
+MW-022,,2025-09-28,,,0,,,,Aggregated case: individual-level details not publicly available; assigned confirmation date = 2025-09-28 (latest PHIM cumulative report).,PHIM (aggregated),2025-09-28,0,0
+MW-023,,2025-09-28,,,0,,,,Aggregated case: individual-level details not publicly available; assigned confirmation date = 2025-09-28 (latest PHIM cumulative report).,PHIM (aggregated),2025-09-28,0,0
